@@ -1,2 +1,2 @@
-# Curso_Angular5
-Ejemplos y ejercicios para curso de Angular 5.
+# Curso de introduccion a Angular 5
+Ejemplo 1: Proyecto base creado solamente a traves de Angular Cli.
